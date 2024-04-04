@@ -4,5 +4,9 @@ header{
 
 }
 body{
-    background-color:black
+    background-color:black;
+    color: white;
+}
+.imagem{
+    text-align: center;
 }
